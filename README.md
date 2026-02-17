@@ -1,4 +1,4 @@
 # Git_demo
 Hello Wolrd!
 <br>
-Author - Rajat
+Author - Rajat Khandelwal
